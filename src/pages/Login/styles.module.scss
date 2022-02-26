@@ -8,6 +8,7 @@
 
 body, html{
     min-height: 100vh;
+    width: 100vw;
     overflow-x: hidden;
     overflow: overlay;
 }
@@ -128,22 +129,28 @@ body, html{
 .listaFooter{
     display: flex;
     justify-content: center;
+    width: 100vw;
     
 }
 
 .itemListaFooter{
     border: none !important;
     padding: 0;
-    margin-right: 16px;
+    margin-left: 8px;
+    margin-right: 8px;
     text-decoration: none;   
     background-color: #0d1117;
     margin-top: 31px;
+    text-align: center;
     
 }
 
 .itemListaFooterSemMargem{
-    margin: 0px;
+  
     margin-top: 31px;
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: center;
     
 }
 

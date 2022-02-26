@@ -33,12 +33,12 @@ const Login = () => {
           </div>
         </section>
       </main>
-      <footer>
-        <ul className="list-group">
-          <li className="list-group-item">An item</li>
-          <li className="list-group-item">A second item</li>
-          <li className="list-group-item">A third item</li>
-          <li className="list-group-item">A fourth item</li>
+      <footer className={cx(styles.footer)}>
+        <ul className="" className={cx(styles.listaFooter, 'list-group list-group-horizontal')}>
+          <li className={cx(styles.itemListaFooter, 'list-group-item')}><a href="#" target="_blank" rel="noopener noreferrer" className={cx(styles.linkFooter)}>Terms</a></li>
+          <li className={cx(styles.itemListaFooter, 'list-group-item')}><a href="#" target="_blank" rel="noopener noreferrer" className={cx(styles.linkFooter)}>Privacy</a></li>
+          <li className={cx(styles.itemListaFooter, 'list-group-item')}><a href="#" target="_blank" rel="noopener noreferrer" className={cx(styles.linkFooter)}>Security</a></li>
+          <li className={cx(styles.itemListaFooter, styles.itemListaFooterSemMargem, 'list-group-item')}><a href="#" target="_blank" rel="noopener noreferrer" className={cx(styles.linkFooter, styles.colorCinza)}>Contact GitHub</a></li>
         </ul>
       </footer>
     </>

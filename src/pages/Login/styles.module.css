@@ -13,7 +13,7 @@ body, html {
 
 .main {
   background-color: #0d1117;
-  min-height: 100vh;
+  min-height: 76vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -76,10 +76,11 @@ body, html {
 
 .containerForm {
   background-color: #161b22;
-  padding: 20px;
+  padding: 16px;
   border: 1px solid #21262d;
   border-radius: 6px;
-  width: 300px;
+  width: 308px;
+  height: 220px;
   font-size: 1rem;
 }
 
@@ -107,10 +108,13 @@ body, html {
 
 .linkLogin {
   margin: 5px;
+  text-decoration: none;
+  color: #58a6ff !important;
 }
 
 .label {
   color: #fff;
+  font-size: 14px;
 }
 
 .form-label {
@@ -120,10 +124,50 @@ body, html {
 .buttonSignIn {
   background-color: #238636 !important;
   border: none !important;
+  padding: 5px 16px !important;
+  border-radius: 6px;
 }
 
 .buttonSignIn:hover {
   background-color: #238636 !important;
   border: none;
+}
+
+.footer {
+  min-height: 24vh;
+  background-color: #0d1117;
+}
+
+.listaFooter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.itemListaFooter {
+  border: none !important;
+  padding: 0;
+  margin-right: 16px;
+  text-decoration: none;
+  background-color: #0d1117;
+  margin-top: 31px;
+}
+
+.itemListaFooterSemMargem {
+  margin: 0px;
+  margin-top: 31px;
+}
+
+.linkFooter {
+  color: #58a6ff !important;
+  text-decoration: none !important;
+  font-size: 12px !important;
+}
+
+.colorCinza {
+  color: #8b949e !important;
 }
 /*# sourceMappingURL=styles.module.css.map */

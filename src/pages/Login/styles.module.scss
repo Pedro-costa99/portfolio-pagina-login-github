@@ -2,6 +2,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+
+    
     
 }
 
@@ -11,6 +13,7 @@ body, html{
     width: 100vw;
     overflow-x: hidden;
     overflow: overlay;
+
 }
 
 
@@ -21,7 +24,16 @@ body, html{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px;
+    line-height: 1.4 !important; 
 
+}
+
+.sectionForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .containerImg{
@@ -89,6 +101,8 @@ body, html{
     margin-top: 16px;
     margin-bottom: 10px;
     font-size: 14px;
+    width: 100%;
+    text-align: center;
 }
 .span{
     color: #fff;
@@ -124,6 +138,7 @@ body, html{
 .footer{
     min-height: 24vh;
     background-color: #0d1117;
+    padding-bottom: 10px;
 }
 
 .listaFooter{
@@ -165,4 +180,30 @@ body, html{
 
 .colorCinza{
     color: #8b949e !important;
+}
+
+@media screen and (max-width: 767px) {
+    .containerForm{
+        width: 300px;        
+    }
+
+        
+}
+
+@media screen and (max-width: 600px) {
+
+    .containerForm{
+        width: 283.83px;
+        
+    }
+    
+}
+
+@media screen and (max-width: 314px) {
+
+    .containerForm{
+        width: 80vw;
+        
+    }
+    
 }

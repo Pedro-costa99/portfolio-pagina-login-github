@@ -4,4 +4,126 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+body, html {
+  min-height: 100vh;
+  overflow-x: hidden;
+  overflow: overlay;
+}
+
+.main {
+  background-color: #0d1117;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.containerImg {
+  background-color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#exampleInputEmail1 {
+  background-color: #0d1117 !important;
+}
+
+.input {
+  background-color: #0d1117 !important;
+  color: #c9d1d9 !important;
+  border: 1px solid #30363d;
+  outline: none;
+  -webkit-box-shadow: #00000000;
+          box-shadow: #00000000;
+  padding: 5px 12px;
+  line-height: 20px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+
+.containerImg {
+  margin-bottom: 24px;
+}
+
+.Img {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.h1 {
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-weight: 100;
+  margin-bottom: 16px;
+}
+
+.containerForm {
+  background-color: #161b22;
+  padding: 20px;
+  border: 1px solid #21262d;
+  border-radius: 6px;
+  width: 300px;
+  font-size: 1rem;
+}
+
+.containerLinkLogin {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 16px 16px;
+  border-radius: 6px;
+  border: 1px solid #30363d;
+  margin-top: 16px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.span {
+  color: #fff;
+}
+
+.linkLogin {
+  margin: 5px;
+}
+
+.label {
+  color: #fff;
+}
+
+.form-label {
+  color: #470a0a;
+}
+
+.buttonSignIn {
+  background-color: #238636 !important;
+  border: none !important;
+}
+
+.buttonSignIn:hover {
+  background-color: #238636 !important;
+  border: none;
+}
 /*# sourceMappingURL=styles.module.css.map */

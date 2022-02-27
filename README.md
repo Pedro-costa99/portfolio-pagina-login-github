@@ -1,4 +1,5 @@
 ## 🪁 Este projeto é o clone do layout da página de Login do GitHub, realizado para Portfólio Front-end.
+- Projeto ReactJS em produção, bem avaliado pelo  Light House (veja imagem abaixo)
 - Iniciado em 26/02/22 pela manhã (sábado de carnaval)
 - Versão 1 do Projeto Finalizado em 27/02/22 pela manhã (domingo de carnaval)
 

@@ -16,7 +16,7 @@
 - **Pedro Canabrava**
 
 ## ✔️ Deploy no Heroku
-- ****
+- **https://portfolio-github-pcanabrava.herokuapp.com/**
 
 ## scripts package.json:
 - produção ("start": "node server.js",)

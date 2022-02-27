@@ -22,6 +22,8 @@
 - produção ("start": "node server.js",)
 - desenvolvimento ("start": "react-scripts start",)
 
+# Avaliação Light House
+![Clone Google na tela de um celular](https://github.com/Pedro-costa99/portfolio-pagina-login-github/blob/main/src/assets/imagensProjeto/light-house.png)
 # Clone Login GitHub mobile
 ![Clone Google na tela de um celular](https://github.com/Pedro-costa99/portfolio-pagina-login-github/blob/main/src/assets/imagensProjeto/screencapture-mobile.png)
 # Clone Login GitHub PC

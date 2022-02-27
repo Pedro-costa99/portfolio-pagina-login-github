@@ -1,3 +1,31 @@
+## ✨ Este projeto é o clone do layout da página de Login do GitHub, realizado para Portfólio Front-end.
+- Iniciado em 26/02/22 pela manhã (sábado de carnaval)
+- Versão 1 do Projeto Finalizado em 27/02/22 pela manhã (domingo de carnaval)
+
+## 🎄 Usei as seguintes tecnologias:
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Module CSS**
+- **SASS**
+
+---
+
+## 😊 Autor
+- **Pedro Canabrava**
+
+## ✔️ Deploy no Heroku
+- ****
+
+
+# Clone Login GitHub mobile
+![Clone Google na tela de um celular](https://github.com/Pedro-costa99/portfolio-pagina-login-github/blob/main/src/assets/imagensProjeto/screencapture-mobile.png)
+# Clone Login GitHub PC
+![Clone Google na tela de um computador](https://github.com/Pedro-costa99/portfolio-layout-google/blob/main/images/screencapture-1366x768.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

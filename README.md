@@ -4,6 +4,7 @@
 - Versão 1 do Projeto Finalizado em 27/02/22 pela manhã (domingo de carnaval)
 
 ## 🪁 Usei as seguintes tecnologias:
+- **ReactJS**
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**

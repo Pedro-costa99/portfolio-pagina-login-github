@@ -17,6 +17,9 @@
 ## ✔️ Deploy no Heroku
 - ****
 
+## scripts package.json:
+- produção ("start": "node server.js",)
+- desenvolvimento ("start": "react-scripts start",)
 
 # Clone Login GitHub mobile
 ![Clone Google na tela de um celular](https://github.com/Pedro-costa99/portfolio-pagina-login-github/blob/main/src/assets/imagensProjeto/screencapture-mobile.png)

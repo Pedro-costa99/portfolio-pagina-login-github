@@ -9,7 +9,7 @@ const Login = () => {
       <main className={cx(styles.main)}>
         <section className={cx(styles.sectionForm)}>
           <div className={cx(styles.containerImg)}>
-            <img src={logoGitHub} alt="Logo GitHub" className={cx(styles.Img)} />
+            <img src={logoGitHub} alt="Logo GitHub" width='100px' height='60px' className={cx(styles.Img)} />
           </div>
           <h1 className={cx(styles.h1)}>Sign in to GitHub</h1>
           <div className={cx(styles.containerForm)}>

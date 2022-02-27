@@ -1,8 +1,8 @@
-## ✨ Este projeto é o clone do layout da página de Login do GitHub, realizado para Portfólio Front-end.
+## 🪁 Este projeto é o clone do layout da página de Login do GitHub, realizado para Portfólio Front-end.
 - Iniciado em 26/02/22 pela manhã (sábado de carnaval)
 - Versão 1 do Projeto Finalizado em 27/02/22 pela manhã (domingo de carnaval)
 
-## 🎄 Usei as seguintes tecnologias:
+## 🪁 Usei as seguintes tecnologias:
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
@@ -21,7 +21,7 @@
 # Clone Login GitHub mobile
 ![Clone Google na tela de um celular](https://github.com/Pedro-costa99/portfolio-pagina-login-github/blob/main/src/assets/imagensProjeto/screencapture-mobile.png)
 # Clone Login GitHub PC
-![Clone Google na tela de um computador](https://github.com/Pedro-costa99/portfolio-layout-google/blob/main/images/screencapture-1366x768.png)
+![Clone Google na tela de um computador](https://github.com/Pedro-costa99/portfolio-pagina-login-github/blob/main/src/assets/imagensProjeto/screencapture-1280x800.png)
 
 
 
